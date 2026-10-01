@@ -128,21 +128,6 @@ public sealed record SoftwareEngineer
 
 ---
 
-### 🧩 Algorithmic Mastery & Problem Solving
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Problems_Solved-1000%2B-00f2fe?style=for-the-badge&logo=codeforces&logoColor=black" alt="1000+ Solved"/>
-    <img src="https://img.shields.io/badge/Specialty-Data_Structures_%26_Algorithms-0284c7?style=for-the-badge" alt="DSA"/>
-    <img src="https://img.shields.io/badge/Platforms-LeetCode_%7C_Codeforces-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Platforms"/>
-  </p>
-  <p>
-    <i>Proficient in: Graph Theory (Dijkstra, MST, BFS/DFS) • Dynamic Programming • Segment Trees & BIT • Greedy Paradigms • Complex State Evaluation • Time & Space Asymptotic Optimization</i>
-  </p>
-</div>
-
----
-
 ### 🛠️ Comprehensive Tech Stack
 
 <div align="left">
@@ -205,9 +190,6 @@ public sealed record SoftwareEngineer
       </td>
     </tr>
   </table>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedKhaled217&theme=tokyo-night&hide_border=true&color=00f2fe" width="100%" alt="Contribution Graph"/>
-</div>
 
 ---
 
