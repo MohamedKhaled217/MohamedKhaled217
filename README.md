@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:0f4c81,80:0284c7,100:00f2fe&height=220&section=header&text=Mohamed%20Khaled&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Backend%20Engineer%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:0f4c81,80:0284c7,100:00f2fe&height=220&section=header&text=Mohamed%20Khaled&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20and%20Backend%20Engineer%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/MohamedKhaled217">
