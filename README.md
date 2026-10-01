@@ -46,33 +46,6 @@ public sealed record SoftwareEngineer
 
 ---
 
-### 🏆 Key Impact Metrics
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h2>🧩 1,000+</h2>
-        <p><b>Algorithmic Solutions</b><br/><sub>LeetCode & Codeforces</sub></p>
-      </td>
-      <td align="center" width="25%">
-        <h2>⚡ &lt;100ms</h2>
-        <p><b>Real-Time Roundtrip</b><br/><sub>Custom C# Chess Engine + SignalR</sub></p>
-      </td>
-      <td align="center" width="25%">
-        <h2>👨‍🏫 500+</h2>
-        <p><b>Developers Mentored</b><br/><sub>Algorithms & System Design</sub></p>
-      </td>
-      <td align="center" width="25%">
-        <h2>🚀 20</h2>
-        <p><b>Production Capstones</b><br/><sub>Supervised Through End-to-End SDLC</sub></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🏛️ Engineering Competencies
 
 <table>
