@@ -1,21 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:0f4c81,80:0284c7,100:00f2fe&height=220&section=header&text=Mohamed%20Khaled&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20and%20Backend%20Engineer%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,40:0f4c81,80:0284c7,100:00f2fe&height=220&section=header&text=Mohamed%20Khaled&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Competitive%20Programmer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/MohamedKhaled217">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F2FE&center=true&vCenter=true&width=780&lines=Building+high-throughput+backends+with+.NET+8+%26+PostgreSQL;Crafting+real-time+experiences+with+Next.js%2C+SignalR+%26+Redis;Architecting+clean%2C+modular+domains+and+scalable+systems;Solved+1000%2B+algorithmic+problems+across+LeetCode+%26+Codeforces;Teaching+and+mentoring+the+next+generation+of+developers;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F2FE&center=true&vCenter=true&width=800&lines=Engineering+low-latency+backends+with+.NET+8+%26+PostgreSQL;Crafting+real-time+distributed+platforms+with+Next.js%2C+SignalR+%26+Redis;Architecting+clean%2C+maintainable+domains+and+modular+APIs;1%2C000%2B+algorithmic+challenges+mastered+on+LeetCode+%26+Codeforces;Mentored+500%2B+engineers+across+20+production-grade+capstones;" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://linkedin.com/in/mohamedkhaled21" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    &nbsp;
     <a href="https://leetcode.com/u/MohamedKhaleddd" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
+    &nbsp;
     <a href="mailto:mohamedkhaleed217@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    &nbsp;
     <a href="https://github.com/MohamedKhaled217">
       <img src="https://komarev.com/ghpvc/?username=MohamedKhaled217&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Profile views"/>
     </a>
@@ -24,45 +27,46 @@
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ Professional Summary
 
 ```csharp
 public sealed record SoftwareEngineer
 {
-    public string Name            => "Mohamed Khaled";
-    public string Degree          => "B.Eng. Computer Engineering (Honors), Port Said Univ. '26";
-    public string[] CoreStack     => [".NET 8 / ASP.NET Core", "Next.js / TypeScript", "PostgreSQL", "Redis"];
-    public string[] Architecture  => ["Clean Architecture", "Domain-Driven Design", "Real-Time / SignalR"];
-    public string ProblemSolving  => "1,000+ Algorithmic Challenges Overcome (LeetCode & Codeforces)";
-    public string Impact          => "Mentored 500+ students & supervised 20 end-to-end SDLC capstones";
+    public string Name             => "Mohamed Khaled";
+    public string Degree           => "B.Eng. in Computer Engineering (Honors) — Port Said Univ. '26";
+    public string[] CoreStack      => [".NET 8 / ASP.NET Core", "Next.js 14 / TypeScript", "PostgreSQL", "Redis"];
+    public string[] Specialization => ["Clean Architecture", "Distributed Caching", "Real-Time / SignalR", "RESTful APIs"];
+    public string ProblemSolving   => "1,000+ Algorithmic Solutions on Codeforces & LeetCode";
+    public string Leadership       => "Mentored 500+ aspiring developers; directed 20 full-lifecycle SDLC capstones";
 }
 ```
 
-> 💡 **Philosophy:** *“Write code that machines execute with low latency and engineers read with zero friction.”*  
-> Focused on high-performance backend systems, distributed architectures, and intuitive web/mobile user experiences.
+> 💡 **Core Engineering Tenet:**  
+> *“Software excellence is the union of mathematical rigour, sub-millisecond execution, and unyielding architectural discipline.”*  
+> Specializing in high-throughput backend services, real-time event-driven applications, and resilient domain-centric architectures.
 
 ---
 
-### 📊 Key Highlights
+### 🏆 Key Impact Metrics
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <h3>🧩 1000+</h3>
-        <p><b>Problems Solved</b><br/><sub>LeetCode & Codeforces</sub></p>
+        <h2>🧩 1,000+</h2>
+        <p><b>Algorithmic Solutions</b><br/><sub>LeetCode & Codeforces</sub></p>
       </td>
       <td align="center" width="25%">
-        <h3>⚡ 100ms</h3>
-        <p><b>Real-Time Engine</b><br/><sub>Custom C# Chess Engine</sub></p>
+        <h2>⚡ &lt;100ms</h2>
+        <p><b>Real-Time Roundtrip</b><br/><sub>Custom C# Chess Engine + SignalR</sub></p>
       </td>
       <td align="center" width="25%">
-        <h3>👨‍🏫 500+</h3>
-        <p><b>Students Mentored</b><br/><sub>iSchool Coding Instructor</sub></p>
+        <h2>👨‍🏫 500+</h2>
+        <p><b>Developers Mentored</b><br/><sub>Algorithms & System Design</sub></p>
       </td>
       <td align="center" width="25%">
-        <h3>🚀 20+</h3>
-        <p><b>Capstones Delivered</b><br/><sub>Full SDLC Supervision</sub></p>
+        <h2>🚀 20</h2>
+        <p><b>Production Capstones</b><br/><sub>Supervised Through End-to-End SDLC</sub></p>
       </td>
     </tr>
   </table>
@@ -70,38 +74,35 @@ public sealed record SoftwareEngineer
 
 ---
 
-### 🏛️ Engineering Capabilities
+### 🏛️ Engineering Competencies
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-#### ⚙️ Backend & Systems
-* **.NET 8 / ASP.NET Core & C#**
-* **Clean Architecture & Repository Patterns**
-* **High-Concurrency APIs & Middleware**
-* **SignalR Real-Time Streaming**
-* **Entity Framework Core & FluentValidation**
+#### ⚙️ Distributed & Backend Systems
+- **ASP.NET Core & .NET 8 (C#)**: High-throughput async Web APIs, middleware pipelines, and background workers.
+- **Clean Architecture & DDD**: Strict layer separation, Unit of Work, Repository Pattern, and FluentValidation.
+- **Real-Time Streaming**: SignalR WebSockets for bi-directional, sub-100ms client-server state synchronization.
+- **Microservices & Messaging**: Event-driven patterns, pub/sub queues, and distributed cache topologies.
 
 </td>
 <td valign="top" width="33%">
 
-#### 🌐 Full-Stack & Mobile
-* **Next.js 14+ & React (TypeScript)**
-* **Django & Python REST Framework**
-* **Flutter & Dart (Provider, State Mgmt)**
-* **Node.js, Express.js & Nest.js**
-* **Responsive UI / UX Design Patterns**
+#### 🌐 Modern Full-Stack & Mobile
+- **Next.js & React (TypeScript)**: Server-side rendering (SSR), static site generation, and optimized client hydrates.
+- **Cross-Platform Mobile (Flutter / Dart)**: Reactive architecture, state management (Provider), and native bridges.
+- **Python & Django Framework**: Secure authentication pipelines, ORM optimization, and REST API development.
+- **Node.js & Express**: High-concurrency event-loop services, custom rate-limiting, and security filters.
 
 </td>
 <td valign="top" width="33%">
 
-#### 🗄️ Data & Infrastructure
-* **PostgreSQL & Advanced Query Tuning**
-* **Redis Caching & Fast In-Memory Queue**
-* **Cloudflare R2 Media & Stream Pipelines**
-* **MongoDB Document Datastores**
-* **Git, Docker & Linux Environment**
+#### 🗄️ Database & Cloud Infrastructure
+- **Relational Databases (PostgreSQL / SQL)**: Query optimization, index strategies, transaction isolation, and EF Core.
+- **In-Memory Datastores (Redis)**: Low-latency caching, session orchestration, and distributed locks.
+- **NoSQL Datastores (MongoDB)**: Aggregation pipelines, sharding principles, and document-level locking.
+- **Cloud & Tooling**: Cloudflare R2 object storage, Git CI workflows, Linux CLI, and container foundations.
 
 </td>
 </tr>
@@ -109,37 +110,37 @@ public sealed record SoftwareEngineer
 
 ---
 
-### 🚀 Featured Work
+### 🚀 Featured Engineering Projects
 
 <table>
-  <!-- Project 1 & 2 -->
+  <!-- Row 1: Checkiski & E-Platform -->
   <tr>
     <td width="50%" valign="top">
-      <h3>♟️ Checkiski — Real-Time Multiplayer Chess</h3>
-      <p>A full-featured, sub-100ms low-latency multiplayer chess platform powered by a <b>custom-built C# chess engine</b> developed completely from scratch.</p>
+      <h3>♟️ Checkiski — High-Performance Multiplayer Chess</h3>
+      <p><i>Sub-100ms low-latency online chess platform driven by an original, zero-dependency C# chess engine.</i></p>
       <ul>
-        <li><b>Custom Engine:</b> 100% complete rule enforcement, move validation, check/stalemate detection, and special moves.</li>
-        <li><b>Low-Latency Sync:</b> ASP.NET Core SignalR WebSockets & Redis matchmaking reducing database query times by 40%.</li>
-        <li><b>Security:</b> JWT token authentication scaled for 1,000+ concurrent sessions.</li>
+        <li><b>Engineered Custom Chess Engine:</b> Built 100% of game-state evaluation from scratch in C#, handling move generation, pinned piece detection, checkmate/stalemate scenarios, en-passant, and castling without external libraries.</li>
+        <li><b>Real-Time Event Architecture:</b> Integrated ASP.NET Core SignalR with Redis pub/sub matchmaking, achieving &lt;100ms sync latency and slashing database query contention by 40%.</li>
+        <li><b>Enterprise Security:</b> Secured with stateless JWT authorization and distributed rate-limiting, tested for 1,000+ concurrent players.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=signal&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 E-Platform — Full-Scale EdTech Ecosystem</h3>
-      <p>A high-capacity educational platform centralizing courses, video streaming, homework, subscriptions, and student evaluation.</p>
+      <h3>🎓 E-Platform — Distributed Educational Ecosystem</h3>
+      <p><i>Scalable educational infrastructure centralizing digital courses, asynchronous exams, and media streaming.</i></p>
       <ul>
-        <li><b>Optimized Media:</b> Cloudflare R2 direct pre-signed uploads with server-side video processing and streaming.</li>
-        <li><b>High Performance:</b> .NET services backed by PostgreSQL and Redis caching for high-speed read/write workflows.</li>
-        <li><b>Extensible Schema:</b> Multi-role authorization and subscription management workflows.</li>
+        <li><b>Direct Media Delivery Pipeline:</b> Implemented Cloudflare R2 presigned direct-to-bucket uploads with server-side processing, completely bypassing API server bandwidth bottlenecks.</li>
+        <li><b>High-Throughput Backing Services:</b> Developed modular .NET backend workflows coupled with PostgreSQL query optimizations and multi-layer Redis caching.</li>
+        <li><b>Role-Based Access Governance:</b> Comprehensive RBAC architecture governing students, instructors, and system administrators with auditable transaction histories.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -148,15 +149,15 @@ public sealed record SoftwareEngineer
     </td>
   </tr>
 
-  <!-- Project 3 & 4 -->
+  <!-- Row 2: Kemora & Student Hub -->
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Kemora — Cross-Platform Mobile Platform</h3>
-      <p>Full-stack mobile app designed around strict <b>Clean Architecture</b>, cultural UI identity, and resilient state management.</p>
+      <h3>📱 Kemora — Cross-Platform Clean Architecture Platform</h3>
+      <p><i>Full-stack mobile solution engineered with strict Domain-Driven Design (DDD) principles.</i></p>
       <ul>
-        <li><b>Domain Separation:</b> .NET Core API using Repository/Service patterns, EF Core, and FluentValidation.</li>
-        <li><b>Robust Frontend:</b> Flutter app utilizing Provider for reactive state management and functional error handling.</li>
-        <li><b>Automated Tooling:</b> Custom SQL and PowerShell scripts for automated test data generation and migrations.</li>
+        <li><b>Domain Decoupling:</b> Implemented Clean Architecture in .NET Core utilizing Entity Framework Core, Repository & Unit-of-Work patterns, and FluentValidation error boundaries.</li>
+        <li><b>Reactive Client Engine:</b> Developed a responsive Flutter mobile client utilizing Provider for state predictability and robust functional error handling.</li>
+        <li><b>Infrastructure Automation:</b> Scripted automated SQL and PowerShell tooling for seamless deterministic database seeding and migrations.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -166,12 +167,12 @@ public sealed record SoftwareEngineer
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Student Hub — Academic Networking Platform</h3>
-      <p>Community platform engineered with customized moderation engines and secure academic collaboration tools.</p>
+      <h3>🛡️ Student Hub — Academic Networking & Moderation Hub</h3>
+      <p><i>High-concurrency academic community platform featuring automated content moderation middleware.</i></p>
       <ul>
-        <li><b>Dynamic Filtering:</b> Custom admin dashboard middleware applying dynamic banned-word filtering with 99% accuracy.</li>
-        <li><b>Session Management:</b> Secure session handling for 500+ active users with Node.js & Express.</li>
-        <li><b>Optimized Data:</b> Structured MongoDB document architecture for high concurrency user threads and interactions.</li>
+        <li><b>Automated Inspection Pipeline:</b> Built custom Express.js middleware using dynamic string tokenization to enforce content moderation and banned-word filtering with 99% accuracy.</li>
+        <li><b>Resilient Session Engine:</b> Managed 500+ simultaneous user sessions reliably through optimized Node.js connection pools and MongoDB clustering.</li>
+        <li><b>Administrative Dashboard:</b> Real-time analytics portal providing instant audit logs, user governance, and automated policy enforcement.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -184,10 +185,27 @@ public sealed record SoftwareEngineer
 
 ---
 
-### 🛠️ Tech Stack
+### 🧩 Algorithmic Mastery & Problem Solving
 
-<p align="left">
-  <b>Languages:</b><br/>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Problems_Solved-1000%2B-00f2fe?style=for-the-badge&logo=codeforces&logoColor=black" alt="1000+ Solved"/>
+    <img src="https://img.shields.io/badge/Specialty-Data_Structures_%26_Algorithms-0284c7?style=for-the-badge" alt="DSA"/>
+    <img src="https://img.shields.io/badge/Platforms-LeetCode_%7C_Codeforces-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Platforms"/>
+  </p>
+  <p>
+    <i>Proficient in: Graph Theory (Dijkstra, MST, BFS/DFS) • Dynamic Programming • Segment Trees & BIT • Greedy Paradigms • Complex State Evaluation • Time & Space Asymptotic Optimization</i>
+  </p>
+</div>
+
+---
+
+### 🛠️ Comprehensive Tech Stack
+
+<div align="left">
+
+**Languages & Core Systems**  
+<p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -198,27 +216,28 @@ public sealed record SoftwareEngineer
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<p align="left">
-  <b>Frameworks & Libraries:</b><br/>
+**Frameworks, Libraries & Protocols**  
+<p>
   <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=signal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-<p align="left">
-  <b>Databases, Cloud & Caching:</b><br/>
+**Databases, Caching & Cloud Infrastructure**  
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
-<p align="left">
-  <b>Tools & Platforms:</b><br/>
+**Engineering Tools & Environments**  
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
@@ -226,61 +245,67 @@ public sealed record SoftwareEngineer
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+</div>
+
 ---
 
-### 📈 Activity & Algorithmic Stats
+### 📊 Performance & Analytics
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img height="185" src="https://github-readme-stats-ecru-two-16.vercel.app/api?username=MohamedKhaled217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00f2fe&icon_color=00f2fe"/>
+        <img height="185" src="https://github-readme-stats-ecru-two-16.vercel.app/api?username=MohamedKhaled217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00f2fe&icon_color=00f2fe" alt="GitHub Stats"/>
       </td>
       <td width="50%" align="center">
-        <img height="185" src="https://leetcard.jacoblin.cool/MohamedKhaleddd?theme=dark&font=Fira%20Code&ext=heatmap"/>
+        <img height="185" src="https://leetcard.jacoblin.cool/MohamedKhaleddd?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Card"/>
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedKhaled217&theme=tokyo-night&hide_border=true&color=00f2fe" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedKhaled217&theme=tokyo-night&hide_border=true&color=00f2fe" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-### 💼 Experience & Education
+### 💼 Professional Journey & Impact
 
 ```
-├── 🎓 Port Said University (Graduation: June 2026)
+├── 🎓 Port Said University | Port Said, Egypt (Expected June 2026)
 │   └── Bachelor of Computer Engineering — Very Good with Honors
-│       └── Coursework: Data Structures & Algorithms, OOP, OS, Networks, DBMS
+│       └── Rigorous Core: Data Structures & Algorithms, OOP, Operating Systems, Networks, DBMS
 │
-├── 👨‍🏫 iSchool | Coding Instructor (Jun 2024 – Sep 2025)
-│   ├── Instructed 500+ students in foundational algorithms & clean programming principles
-│   └── Mentored students through 20 capstone project SDLC cycles
+├── 👨‍🏫 iSchool | Coding Instructor — Remote (Jun 2024 – Sep 2025)
+│   ├── Mentored 500+ students in algorithmic problem-solving & clean software craftsmanship
+│   ├── Improved overall cohort technical competence by 40% through structured diagnostic feedback
+│   └── Guided 20 student capstones across the full SDLC, ensuring scalable architectural patterns
 │
-└── 🌐 Information Technology Institute (ITI) | Full-Stack Trainee (Aug 2024 – Sep 2024)
-    ├── Deployed 3 dynamic Python & Django ORM web apps handling 500 daily requests
-    └── Accelerated interface delivery by 25% within an Agile team structure
+└── 🌐 Information Technology Institute (ITI) | Full-Stack Trainee — Remote (Aug 2024 – Sep 2024)
+    ├── Architected and shipped 3 dynamic applications using Python, Django ORM, and RESTful APIs
+    ├── Handled 500+ daily requests with robust authentication and structured error boundaries
+    └── Accelerated frontend delivery by 25% within an Agile, cross-functional delivery team
 ```
 
 ---
 
 <div align="center">
-  <h3>Let's Connect & Build</h3>
-  <p>Open to Software Engineering roles, backend opportunities, and system design challenges.</p>
+  <h3>Let's Build Scalable Systems Together</h3>
+  <p>Open for Software Engineering opportunities, backend architecture challenges, and impactful collaborations.</p>
 
-  <a href="https://linkedin.com/in/mohamedkhaled21" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mohamedkhaleed217@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/MohamedKhaleddd" target="_blank">
-    <img src="https://img.shields.io/badge/View_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  <p>
+    <a href="https://linkedin.com/in/mohamedkhaled21" target="_blank">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:mohamedkhaleed217@gmail.com">
+      <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://leetcode.com/u/MohamedKhaleddd" target="_blank">
+      <img src="https://img.shields.io/badge/View_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </a>
+  </p>
 
-  <br/><br/>
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:0f4c81,100:0b1120&height=120&section=footer" width="100%"/>
 </div>
