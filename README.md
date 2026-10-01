@@ -3,7 +3,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/MohamedKhaled217">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F2FE&center=true&vCenter=true&width=800&lines=Engineering+low-latency+backends+with+.NET+8+%26+PostgreSQL;Crafting+real-time+distributed+platforms+with+Next.js%2C+SignalR+%26+Redis;Architecting+clean%2C+maintainable+domains+and+modular+APIs;1%2C000%2B+algorithmic+challenges+mastered+on+LeetCode+%26+Codeforces;Mentored+500%2B+engineers+across+20+production-grade+capstones;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00F2FE&center=true&vCenter=true&width=800&lines=Engineering+low-latency+backends;Crafting+real-time+distributed+platforms+with+Next.js%2C+SignalR+%26+Redis;Architecting+clean%2C+maintainable+domains+and+modular+APIs;1%2C000%2B+algorithmic+challenges+mastered+on+LeetCode+%26+Codeforces;" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -34,10 +34,9 @@ public sealed record SoftwareEngineer
 {
     public string Name             => "Mohamed Khaled";
     public string Degree           => "B.Eng. in Computer Engineering (Honors) — Port Said Univ. '26";
-    public string[] CoreStack      => [".NET 8 / ASP.NET Core", "Next.js 14 / TypeScript", "PostgreSQL", "Redis"];
+    public string[] CoreStack      => [".NET 8 / ASP.NET Core", "NodeJs","Next.js 14 / TypeScript", "PostgreSQL", "Redis"];
     public string[] Specialization => ["Clean Architecture", "Distributed Caching", "Real-Time / SignalR", "RESTful APIs"];
     public string ProblemSolving   => "1,000+ Algorithmic Solutions on Codeforces & LeetCode";
-    public string Leadership       => "Mentored 500+ aspiring developers; directed 20 full-lifecycle SDLC capstones";
 }
 ```
 
