@@ -82,78 +82,49 @@ public sealed record SoftwareEngineer
 
 ---
 
-### 🚀 Featured Engineering Projects
+## 🚀 Featured Work
 
-<table>
-  <!-- Row 1: Checkiski & E-Platform -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>♟️ Checkiski — High-Performance Multiplayer Chess</h3>
-      <p><i>Sub-100ms low-latency online chess platform driven by an original, zero-dependency C# chess engine.</i></p>
-      <ul>
-        <li><b>Engineered Custom Chess Engine:</b> Built 100% of game-state evaluation from scratch in C#, handling move generation, pinned piece detection, checkmate/stalemate scenarios, en-passant, and castling without external libraries.</li>
-        <li><b>Real-Time Event Architecture:</b> Integrated ASP.NET Core SignalR with Redis pub/sub matchmaking, achieving &lt;100ms sync latency and slashing database query contention by 40%.</li>
-        <li><b>Enterprise Security:</b> Secured with stateless JWT authorization and distributed rate-limiting, tested for 1,000+ concurrent players.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=signal&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 E-Platform — Distributed Educational Ecosystem</h3>
-      <p><i>Scalable educational infrastructure centralizing digital courses, asynchronous exams, and media streaming.</i></p>
-      <ul>
-        <li><b>Direct Media Delivery Pipeline:</b> Implemented Cloudflare R2 presigned direct-to-bucket uploads with server-side processing, completely bypassing API server bandwidth bottlenecks.</li>
-        <li><b>High-Throughput Backing Services:</b> Developed modular .NET backend workflows coupled with PostgreSQL query optimizations and multi-layer Redis caching.</li>
-        <li><b>Role-Based Access Governance:</b> Comprehensive RBAC architecture governing students, instructors, and system administrators with auditable transaction histories.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+### ♟️ Checkiski — Real-Time Multiplayer Chess Platform *(Live)*
+> An ultra-low latency multiplayer chess platform powered by a **custom C# chess engine developed from scratch**, with zero external game-rule dependencies. The engine implements 100% of complex FIDE game mechanics including move validation, pinned-piece resolution, checkmate/stalemate detection, en-passant, and castling.
+>
+> Features **sub-100ms bi-directional state synchronization** via ASP.NET Core SignalR WebSockets and in-memory Redis matchmaking queues, slashing relational database contention by **40%** and supporting **1,000+ concurrent players** with secure, stateless JWT authentication.
+>
+> `ASP.NET Core` · `.NET 8` · `C#` · `Next.js` · `TypeScript` · `SignalR` · `Redis` · `PostgreSQL` · `Clean Architecture`
+>
+> [→ View Repository](https://github.com/MohamedKhaled217/Checkiski) · [→ Live Demo](https://github.com/MohamedKhaled217/Checkiski)
 
-  <!-- Row 2: Kemora & Student Hub -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Kemora — Cross-Platform Clean Architecture Platform</h3>
-      <p><i>Full-stack mobile solution engineered with strict Domain-Driven Design (DDD) principles.</i></p>
-      <ul>
-        <li><b>Domain Decoupling:</b> Implemented Clean Architecture in .NET Core utilizing Entity Framework Core, Repository & Unit-of-Work patterns, and FluentValidation error boundaries.</li>
-        <li><b>Reactive Client Engine:</b> Developed a responsive Flutter mobile client utilizing Provider for state predictability and robust functional error handling.</li>
-        <li><b>Infrastructure Automation:</b> Scripted automated SQL and PowerShell tooling for seamless deterministic database seeding and migrations.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Clean_Architecture-009688?style=flat-square&logo=diagram&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Student Hub — Academic Networking & Moderation Hub</h3>
-      <p><i>High-concurrency academic community platform featuring automated content moderation middleware.</i></p>
-      <ul>
-        <li><b>Automated Inspection Pipeline:</b> Built custom Express.js middleware using dynamic string tokenization to enforce content moderation and banned-word filtering with 99% accuracy.</li>
-        <li><b>Resilient Session Engine:</b> Managed 500+ simultaneous user sessions reliably through optimized Node.js connection pools and MongoDB clustering.</li>
-        <li><b>Administrative Dashboard:</b> Real-time analytics portal providing instant audit logs, user governance, and automated policy enforcement.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+### 🎓 E-Platform — High-Capacity EdTech & Media Streaming System *(Live)*
+> A centralized, full-stack educational platform engineered to handle video-based course deliveries, homework pipelines, dynamic online examinations, and subscription lifecycles within a unified high-availability architecture.
+>
+> Built a high-performance video delivery pipeline using **Cloudflare R2 direct pre-signed uploads** and server-side processing, completely bypassing API server bottlenecks. Features a modular **.NET backend** backed by PostgreSQL query tuning and multi-tiered **Redis caching** to sustain peak exam workloads with sub-50ms query response times.
+>
+> `.NET` · `C#` · `Next.js` · `TypeScript` · `PostgreSQL` · `Redis` · `Cloudflare R2` · `RESTful APIs` · `System Design`
+>
+> [→ View Repository](https://github.com/MohamedKhaled217/E-Platform) · [→ Live Platform](https://github.com/MohamedKhaled217/E-Platform)
+
+---
+
+### 📱 Kemora — Cross-Platform Mobile Commerce & Services *(GitHub)*
+> A full-stack mobile solution designed with strict adherence to **Clean Architecture** principles across both client and server domains, pairing a culturally authentic user experience with a decoupled, enterprise backend.
+>
+> Powered by an **ASP.NET Core Web API** utilizing Entity Framework Core, Repository & Unit-of-Work patterns, FluentValidation, and granular JWT role authorization. Backed by a cross-platform **Flutter** client using Provider for predictable state machines, supported by automated SQL and PowerShell database provisioning tooling.
+>
+> `Flutter` · `Dart` · `.NET Core` · `C#` · `Entity Framework Core` · `Clean Architecture` · `SQL` · `PowerShell`
+>
+> [→ View Repository](https://github.com/MohamedKhaled217/Kemora)
+
+---
+
+### 🛡️ Student Hub — Academic Networking & Content Moderation *(GitHub)*
+> A community management platform built for academic collaboration and peer-to-peer networking, supporting **500+ simultaneous authenticated user sessions** with encrypted credential pipelines.
+>
+> Features an intelligent administrative moderation suite powered by custom **Express.js middleware** that executes dynamic tokenization to apply banned-word filtering with **99% accuracy**. Architected with an optimized **MongoDB document model** for rapid discussion feeds and threaded interactions.
+>
+> `Node.js` · `Express.js` · `MongoDB` · `JavaScript` · `REST APIs` · `Middleware` · `Content Moderation`
+>
+> [→ View Repository](https://github.com/MohamedKhaled217/Student-Hub)
 
 ---
 
